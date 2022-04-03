@@ -1,0 +1,31 @@
+#my-navbar{
+	background-color: #717572;
+}
+
+.navbar-brand h1{	/* Restaurant Name */
+	color: black;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+
+#nav-list a{
+	color: black;
+	font-size: 1.5em;
+	text-align: center;	
+}
+
+#nav-list a:hover{
+	background: #E7E7E7;
+}
+
+#main-content .chicken, #main-content .beef , #main-content .sushi{
+	background: #717572;
+	padding: 5px 20px 5px 20px;
+	margin: 10px 5px 10px 5px;
+}
+
+.col-md-4 .col-sm-6 .col-xs-12{
+	width: 100%;
+}
